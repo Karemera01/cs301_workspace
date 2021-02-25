@@ -7,3 +7,4 @@ console.log(maximumRate);
 console.log(slowestRate);
 console.log(fastestRate);
 
+

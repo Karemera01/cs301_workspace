@@ -1,8 +1,12 @@
 // let message="hello";
 // console.log(message);
+
+
 // const prompt=require("prompt-sync")();
 // let name=prompt("Please enter your name");
 // console.log(`hi ${name}`);
+
+
 //  const prompt=require("prompt-sync")();
 //  let firstValue=+prompt("enter the first number");
 //  let secondValue=+prompt("enter the second number");
