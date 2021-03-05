@@ -1,3 +1,4 @@
+"use strict";
 // using Tenary operator
 
 const prompt=require("prompt-sync")();
