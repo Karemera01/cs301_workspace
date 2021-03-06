@@ -7,7 +7,7 @@
 function isPalindrome(arr){
      let copy=[];
      for(let num of arr){
-         copy.push(num);
+         copy=copy.push(num);
      }
      for(let i=0;i<arr.length;i++){
          if(arr.shift()!==copy.pop()){
