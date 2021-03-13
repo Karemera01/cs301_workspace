@@ -11,4 +11,4 @@ function getMiddle(array){
         return average;
     }
 }
-console.log(getMiddle([1,2,3,4,5,6]));
+console.log(getMiddle([1,2,3,4,5,6,8]));

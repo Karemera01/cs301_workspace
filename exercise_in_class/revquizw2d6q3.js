@@ -7,7 +7,8 @@ function deleteArrayElement(array,index){
             continue;
 
         }
-        copy[i]=array[i];
+       
+        copy.push(array[i]);
     }
     return copy;
 }
